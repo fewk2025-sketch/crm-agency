@@ -1,0 +1,81 @@
+```
+# Dependencies
+node_modules/
+
+# Build artifacts
+dist/
+build/
+*.o
+*.obj
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.so
+*.dll
+*.a
+*.lib
+*.dylib
+*.jar
+*.war
+*.zip
+*.tar
+*.gz
+*.tgz
+*.bz2
+*.xz
+*.7z
+*.rar
+*.zst
+*.lz4
+*.lzh
+*.cab
+*.arj
+*.rpm
+*.deb
+*.Z
+*.lz
+*.lzo
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.tar.zst
+
+# Environment
+.env
+.env.local
+.env.*
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Coverage
+coverage/
+htmlcov/
+.coverage
+
+# TypeScript
+*.tsbuildinfo
+*.tsx.swp
+
+# Vite
+.vite/
+
+# Package lock
+package-lock.json
+yarn.lock
+
+# Browser specific files
+*.webmanifest
+```
